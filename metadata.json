@@ -1,0 +1,7 @@
+{
+  "name": "PosePro Studio Elite - 8K I2I",
+  "description": "Professional studio pose library with identity-locking technology for 8K image-to-image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
